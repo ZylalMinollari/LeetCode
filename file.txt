@@ -1,0 +1,18 @@
+#This file is nessecary for some tescase for a specific Problem
+
+# Test Case for Problem NO.193
+987-123-4567
+123 456 7890
+(123) 456-7890
+
+# Test Case for Problem NO.195
+Line 1
+Line 2
+Line 3
+Line 4
+Line 5
+Line 6
+Line 7
+Line 8
+Line 9
+Line 10
